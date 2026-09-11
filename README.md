@@ -247,3 +247,6 @@ This repository serves as the official landing page for Farming Simulator 25. Th
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Farming Simulator 25 today!** | Updated 2024
+
+---
+**Last updated:** 2026-09-11 20:37:16 UTC
