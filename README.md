@@ -249,4 +249,4 @@ This repository serves as the official landing page for Farming Simulator 25. Th
 **Get the most recent version of Farming Simulator 25 today!** | Updated 2024
 
 ---
-**Last updated:** 2026-09-26 22:26:36 UTC
+**Last updated:** 2026-09-27 01:08:03 UTC
